@@ -81,7 +81,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'financial_planner_db',  # The name of the database you just created
         'USER': 'root',   # Replace with your MySQL username
-        'PASSWORD': 'Shyamlal@2004',  # Replace with your MySQL password
+        'PASSWORD': 'Gracy@25',  # Replace with your MySQL password
         'HOST': 'localhost',  # Or use the IP address of your MySQL server
         'PORT': '3306',       # Default MySQL port
     }
